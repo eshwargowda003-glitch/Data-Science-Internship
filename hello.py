@@ -1,0 +1,7 @@
+print("Hello, I am Codomax Intern!")
+print("Name: Eshwar K A")
+print("Day 1 - Data Science Internship")
+print("I am learning Python programming.")
+print("Today I set up my development environment.")
+print("I am excited to start my data science journey!")
+print("Thank you!")
