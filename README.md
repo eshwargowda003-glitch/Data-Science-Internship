@@ -36,3 +36,25 @@ Author: Eshwar K A
 Developed basic Python programming skills by learning and practicing variables, data types, operators, conditional statements, loops, and functions through simple Python programs.
 
 Author: Eshwar K A
+
+## Day 3 – NumPy Basics
+
+### Objective
+Learn the fundamentals of NumPy, including array creation, mathematical operations, and array calculations.
+
+### Files Included
+- numpy_arrays.py
+- array_operations.py
+- mathematical_functions.py
+- array_calculations.py
+
+### Topics CoveredS
+- NumPy Arrays
+- Array Operations
+- Mathematical Functions
+- Array Calculations
+
+### Expected Outcome
+Understood the fundamentals of NumPy by creating arrays, performing mathematical operations, and practicing array calculations.
+
+Author: Eshwar K A
