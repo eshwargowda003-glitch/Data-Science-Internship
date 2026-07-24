@@ -58,3 +58,24 @@ Learn the fundamentals of NumPy, including array creation, mathematical operatio
 Understood the fundamentals of NumPy by creating arrays, performing mathematical operations, and practicing array calculations.
 
 Author: Eshwar K A
+
+## Day 4 – Pandas Basics
+
+### Objective
+Learn how to use Pandas to load and explore a CSV dataset.
+
+### Files Included
+- dataset/students.csv
+- load_dataset.py
+
+### Topics Covered
+- Importing Pandas
+- Loading a CSV file
+- Viewing rows
+- Viewing columns
+- Dataset information
+- Dataset shape
+
+### Expected Outcome
+Successfully loaded a CSV dataset and explored its structure using Pandas.
+Author: Eshwar K A
