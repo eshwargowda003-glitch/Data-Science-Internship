@@ -79,3 +79,23 @@ Learn how to use Pandas to load and explore a CSV dataset.
 ### Expected Outcome
 Successfully loaded a CSV dataset and explored its structure using Pandas.
 Author: Eshwar K A
+
+## Day 5 – Data Cleaning
+
+### Objective
+Learn how to clean a dataset using Pandas.
+
+### Files Included
+- dataset/students_dirty.csv
+- dataset/students_cleaned.csv
+- data_cleaning.py
+
+### Topics Covered
+- Handling Missing Values
+- Removing Duplicate Records
+- Correcting Data Types
+
+### Expected Outcome
+Prepared a clean dataset by handling missing values, removing duplicate records, and correcting data types using Pandas.
+
+Author: Eshwar K A
