@@ -99,3 +99,24 @@ Learn how to clean a dataset using Pandas.
 Prepared a clean dataset by handling missing values, removing duplicate records, and correcting data types using Pandas.
 
 Author: Eshwar K A
+
+## Day 6 – Data Filtering
+
+### Objective
+Learn how to filter rows, select columns, and sort data using Pandas.
+
+### Files Included
+- dataset/students.csv
+- dataset/students_filtered.csv
+- data_filtering.py
+
+### Topics Covered
+- Row Filtering
+- Column Selection
+- Sorting Data
+- Exporting Filtered Dataset
+
+### Expected Outcome
+Created a filtered dataset by selecting rows, choosing required columns, and sorting data using Pandas.
+
+Author: Eshwar K A
