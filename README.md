@@ -120,3 +120,24 @@ Learn how to filter rows, select columns, and sort data using Pandas.
 Created a filtered dataset by selecting rows, choosing required columns, and sorting data using Pandas.
 
 Author: Eshwar K A
+
+## Day 7 – Data Analysis
+
+### Objective
+Learn how to analyze a dataset using Pandas.
+
+### Files Included
+- dataset/students.csv
+- data_analysis.py
+
+### Topics Covered
+- Total Count
+- Average
+- Minimum Value
+- Maximum Value
+- Value Count
+
+### Expected Outcome
+Generated basic business insights by calculating totals, averages, minimum and maximum values, and counting records using Pandas.
+
+Author: Eshwar K A
