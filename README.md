@@ -141,3 +141,26 @@ Learn how to analyze a dataset using Pandas.
 Generated basic business insights by calculating totals, averages, minimum and maximum values, and counting records using Pandas.
 
 Author: Eshwar K A
+
+## Day 8 – Data Visualization
+
+### Objective
+Learn how to visualize data using Matplotlib.
+
+### Files Included
+- dataset/students.csv
+- data_visualization.py
+- bar_chart.png
+- line_chart.png
+- pie_chart.png
+
+### Topics Covered
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Saving Charts as Images
+
+### Expected Outcome
+Successfully created bar, line, and pie charts using Matplotlib to visualize the dataset.
+
+Author: Eshwar K A
