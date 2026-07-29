@@ -164,3 +164,24 @@ Learn how to visualize data using Matplotlib.
 Successfully created bar, line, and pie charts using Matplotlib to visualize the dataset.
 
 Author: Eshwar K A
+
+## Day 9 – Mini Dashboard
+
+### Objective
+Create a mini dashboard using Jupyter Notebook by combining data analysis and visualizations.
+
+### Files Included
+- dataset/students.csv
+- day9_dashboard.ipynb
+
+### Topics Covered
+- Data Analysis
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Business Insights
+
+### Expected Outcome
+Successfully created a mini dashboard by combining analysis and charts in a single Jupyter Notebook.
+
+Author: Eshwar K A
