@@ -185,3 +185,23 @@ Create a mini dashboard using Jupyter Notebook by combining data analysis and vi
 Successfully created a mini dashboard by combining analysis and charts in a single Jupyter Notebook.
 
 Author: Eshwar K A
+
+## Day 10 – Export Data
+
+### Objective
+Learn how to export a cleaned dataset into a new CSV file using Pandas.
+
+### Files Included
+- dataset/students_cleaned.csv
+- dataset/exported_students.csv
+- export_data.py
+
+### Topics Covered
+- Reading CSV files
+- Exporting data to CSV
+- Saving processed datasets
+
+### Expected Outcome
+Successfully exported the cleaned dataset into a new CSV file using Pandas.
+
+Author: Eshwar K A
