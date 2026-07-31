@@ -205,3 +205,21 @@ Learn how to export a cleaned dataset into a new CSV file using Pandas.
 Successfully exported the cleaned dataset into a new CSV file using Pandas.
 
 Author: Eshwar K A
+
+## Day 11 – Business Insights
+
+### Objective
+Analyze the dataset and prepare a business insight report.
+
+### Files Included
+- business_insights.md
+
+### Topics Covered
+- Data Interpretation
+- Business Insights
+- Analytical Reporting
+
+### Expected Outcome
+Prepared a report containing five meaningful observations from the analyzed dataset.
+
+Author: Eshwar K A
