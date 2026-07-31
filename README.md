@@ -223,3 +223,23 @@ Analyze the dataset and prepare a business insight report.
 Prepared a report containing five meaningful observations from the analyzed dataset.
 
 Author: Eshwar K A
+
+## Day 12 – Project Improvement
+
+### Objective
+Improve the project by enhancing notebook formatting, adding comments, improving charts, and increasing code readability.
+
+### Files Included
+- day9_dashboard.ipynb
+
+### Improvements Made
+- Added Markdown headings
+- Added comments to code
+- Improved chart titles
+- Added axis labels
+- Added conclusion section
+
+### Expected Outcome
+Successfully created a professional and well-documented Jupyter Notebook.
+
+Author: Eshwar K A
