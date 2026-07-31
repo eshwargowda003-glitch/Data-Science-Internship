@@ -279,3 +279,37 @@ This project demonstrates the fundamentals of Data Science using Python. It cove
 - README Documentation
 
 Author: Eshwar K A
+
+# 📊 Data Science Internship Project
+
+## Intern Information
+- **Name:** Eshwar K A
+- **Company:** Codomax Digital Solutions
+- **Internship:** Data Science Internship
+
+## Project Overview
+This project demonstrates the complete Data Science workflow using Python. It covers data preprocessing, cleaning, filtering, analysis, visualization, exporting processed data, business insights, and dashboard creation using Jupyter Notebook.
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+
+## Project Modules
+- Python Basics
+- NumPy Operations
+- Data Loading
+- Data Cleaning
+- Data Filtering
+- Data Analysis
+- Data Visualization
+- Export Data
+- Business Insights
+- Dashboard Creation
+- Project Documentation
+
+## Project Outcome
+Successfully completed a mini Data Science project by applying fundamental data analysis techniques and publishing the project on GitHub.
