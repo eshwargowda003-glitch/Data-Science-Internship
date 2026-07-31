@@ -243,3 +243,39 @@ Improve the project by enhancing notebook formatting, adding comments, improving
 Successfully created a professional and well-documented Jupyter Notebook.
 
 Author: Eshwar K A
+
+# Data Science Internship Project
+
+## Intern Details
+- Name: Eshwar Gowda
+- Company: Codomax Digital Solutions
+- Internship: Data Science Internship
+
+## Project Overview
+This project demonstrates the fundamentals of Data Science using Python. It covers data preprocessing, analysis, visualization, exporting datasets, business insights, and dashboard creation using Jupyter Notebook.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+
+## Project Features
+- Data Cleaning
+- Data Filtering
+- Data Analysis
+- Data Visualization
+- Dashboard Creation
+- Exporting Cleaned Data
+- Business Insights
+
+## Repository Contents
+- Python Programs
+- Dataset
+- Charts
+- Jupyter Notebook
+- README Documentation
+
+Author: Eshwar K A
